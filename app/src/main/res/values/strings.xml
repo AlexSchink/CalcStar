@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CalcStar</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="authorize">authorize</string>
+    <string name="login_instructions">login_instructions</string>
+
+    <string name="twitter_callback">https://www.calcstar-cb.com</string>
+    <string name="twitter_consumer_key">52fxx6MXtmgh5tq90c5Jfx3eg</string>
+    <string name="twitter_consumer_secret">5ijOZ2EhtQmaOorAGgeZXV3U9UIIEVy48cI6ZC6jVtrmu6whZc</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+    <string name="hello">Hello</string>
+    <string name="share">Share</string>
+    <string name="share_instructions">share_instructions</string>
+    <string name="your_score">Your Score:</string>
+    <string name="gameover">GameOver</string>
+    <string name="textview">TextView</string>
+    <string name="tweet_it">Tweet it!</string>
+    <string name="highscores">Highscores</string>
+    <string name="add_score">Add Score</string>
+    <string name="button">Button</string>
+    <string name="_0">0</string>
+    <string name="solve">Solve</string>
+    <string name="highscore">Highscore</string>
+    <string name="settings">Settings</string>
+    <string name="music">Music</string>
+    <string name="todo">TODO</string>
+    <string name="easy">EASY</string>
+    <string name="choose_difficulty_to_start_the_game">Choose difficulty to start the game:</string>
+    <string name="medium">MEDIUM</string>
+    <string name="hard">HARD</string>
+    <string name="calcstar_logo">CalcStar Logo</string>
+</resources>
